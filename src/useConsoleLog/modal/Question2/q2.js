@@ -1,5 +1,5 @@
 //console.logを使ってみよう！
-console.log('H');
+console.log('Hello World');
 
 const name = "Json Taro";
 console.log(name);
