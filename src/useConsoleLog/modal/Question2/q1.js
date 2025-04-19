@@ -2,7 +2,7 @@
 console.log('Hello World');
 
 const name = "Json Taro";
-console.log(names);
+console.log(name);
 
 const fruits = [
   'banana',
